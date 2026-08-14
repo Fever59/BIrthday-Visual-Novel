@@ -1,2 +1,2 @@
-# BIrthday-Visual-Novel
+# Birthday-Visual-Novel
 Birthday gift for a friend
